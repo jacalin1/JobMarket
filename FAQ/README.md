@@ -238,7 +238,7 @@ Frequently Asked Questions About the Job Market Process
     >
     > Just to make it crystal clear, I will say it again: If your advisors are not prepared to write a letter that says you should be hired, no employer will hire you. So there is no point in trying to apply on your own without your advisors’ approval - it would be a waste of paper, money, and time on your part. Your application will simply be ignored if it does not come with advisors’ letters, and will be discarded if it comes with letters that say you are not ready.
     >
-    > (Of course, I am referring here to jobs which are part of the usual PhD hiring process in economics. There’s no reason you can’t search for another kind of job, say as a brain surgeon or an astronaut, which does not require a PhD in economics. And of course you are welcome to apply to jobs that require only a masters degree in economics, for which you can reasonably request letters from anyone who has supervised you in the JHU program).
+    > (Of course, I am referring here to jobs which are part of the usual PhD hiring process in economics. There’s no reason you can’t search for another kind of job, say as a brain surgeon or an astronaut, which does not require a PhD in economics. And of course you are welcome to apply to jobs that require only a mains degree in economics, for which you can reasonably request letters from anyone who has supervised you in the JHU program).
 
 33. After the interviews at the ASSA meetings, should I send a “thank you” email to the interviewers, or is that too pushy/annoying?
 
