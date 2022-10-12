@@ -10,4 +10,4 @@ Overview of JobMarket Resources for JHU Econ PhD Candidates
 
 -   [Templates for various documents you will want to create](https://llorracc.github.io/JobMarket/Templates)
 
--   [TimeTable for main events in job market season](https://github.com/llorracc/JobMarket/tree/main/TimeTable)
+-   [TimeTable for main events in job market season](https://llorracc.github.io/JobMarket/TimeTable)
