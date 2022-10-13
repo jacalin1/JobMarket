@@ -9,7 +9,7 @@ For these instructions, assume that your name is "Firstname Middlename Lastname"
 
 ___
 
-"http://www.econ2.jhu.edu/jobmarket/year/LastnameFM"
+http://www.econ2.jhu.edu/jobmarket/year/LastnameFM
 
 ___
 
