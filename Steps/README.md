@@ -3,6 +3,8 @@
 
 </div>
 
+FAQ
+
 Steps in the Job Market Process
 
 1.  Familiarize yourself with this document, [`TimeTable`](https://github.com/llorracc/JobMarket/tree/main/TimeTable), and [`FAQ`](https://github.com/llorracc/JobMarket/blob/main/FAQ); in all communications I will expect you to have thoroughly digested the information contained in all of the resources I have provided.

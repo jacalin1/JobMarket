@@ -5,6 +5,8 @@
 
 Recommendation Letters Procedures
 
+FAQ
+
 # Information for Students and Staff
 
 <div id="students-and-staff">
