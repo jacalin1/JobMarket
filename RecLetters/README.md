@@ -5,6 +5,8 @@
 
 Recommendation Letters Procedures
 
+FAQ
+
 # Information for Students and Staff
 
 <div id="students-and-staff">
@@ -13,7 +15,7 @@ Recommendation Letters Procedures
 
 The department will send out recommendation letters in these ways:
 
-1.  [`EJM`](https://econjobmarket.org)  (<https://econjobmarket.org>)
+1.  [`EJM`](https://econjobmarket.org)    (<https://econjobmarket.org>)
 
 2.  [`AcademicJobsOnline`](https://academicjobsonline.org)  (<https://academicjobsonline.org>)
 
@@ -43,7 +45,7 @@ Broadly, for each iteration your steps are as follows:
 
     1.  Date on which the staff are to send the recommendation letters;
 
-    2.  Method of recommendation ([`AEA/JOE`](https://aeaweb.org), [`AcademicJobsOnline`](https://academicjobsonline.org), [`EJM`](https://econjobmarket.org), [`Interfolio`](https://www.interfolio.com), push email (for sorting purposes, label it “email-push”), pull email (label it “email-pull”), or “other” with the understanding that anything in “other” will be sent only after ALL other recommendations for ALL other students are sent);
+    2.  Method of recommendation ([`AEA/JOE`](https://aeaweb.org), [`AcademicJobsOnline`](https://academicjobsonline.org), [`EJM`](https://econjobmarket.org) , [`Interfolio`](https://www.interfolio.com), push email (for sorting purposes, label it “email-push”), pull email (label it “email-pull”), or “other” with the understanding that anything in “other” will be sent only after ALL other recommendations for ALL other students are sent);
 
     3.  Academic vs. Nonacademic;
 
@@ -73,7 +75,7 @@ Broadly, for each iteration your steps are as follows:
 
 5.  *After having sent* their `EmployersMoniker-[Which].xls` spreadsheet, the student should follow the steps outlined in detail below for those applications that involve either push or pull email.
 
-6.  *After taking care of their push and pull email applications*, students should complete their [`EJM`](https://econjobmarket.org), [`AcademicJobsOnline`](https://academicjobsonline.org), [`AEA/JOE`](https://aeaweb.org), and [`Interfolio`](https://www.interfolio.com) applications for this round (see below for details).
+6.  *After taking care of their push and pull email applications*, students should complete their [`EJM`](https://econjobmarket.org) , [`AcademicJobsOnline`](https://academicjobsonline.org), [`AEA/JOE`](https://aeaweb.org), and [`Interfolio`](https://www.interfolio.com) applications for this round (see below for details).
 
 7.  *After having done all of this*, the student should email their recommenders and ask them to send their letters to [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu). Note that your request to recommenders needs to come last because if the letters arrive before the other steps have been taken, the letters may get lost. (Though it would be wise to remind your advisors a week or two beforehand that letters from them will be needed soon).
 
@@ -173,9 +175,11 @@ Most of what the staff will do for recommendation letters is implicit in the pre
 
 1.  **[`EJM`](https://econjobmarket.org):** Each JHU faculty member sending a recommendation letter will need to have an account at [`EJM`](https://econjobmarket.org)  (<https://econjobmarket.org>). Your account is first established by the STUDENT who first requests a letter from you. That student must provide to [`EJM`](https://econjobmarket.org) a valid `@jhu.edu` email address for you. Personal email addresses like those from `gmail` or `yahoo` are now prohibited by [`EJM`](https://econjobmarket.org)  for security reasons.
 
-    If you are not yet registered on [`EJM`](https://econjobmarket.org) and a student provides [`EJM`](https://econjobmarket.org) with a valid JHU email address for you inside [`EJM`](https://econjobmarket.org), that will become your unique [`EJM`](https://econjobmarket.org) email address. WARNING: You probably have 4-8 valid email addresses: `ccarroll@jhu.edu, ccarrol2@jh.edu, ccarroll@johnshopkins.edu, ...`. You want to have ONE address known to [`EJM`](https://econjobmarket.org)(otherwise, you may have to log in for each email address multiple times). Even if you have written EJM leters before, a student might try to register you under another address. If so, I advise you to push back and ask the student to get it right.
+    If you are not yet registered on [`EJM`](https://econjobmarket.org) and a student provides [`EJM`](https://econjobmarket.org) with a valid JHU email address for you inside [`EJM`](https://econjobmarket.org), that will become your unique [`EJM`](https://econjobmarket.org) email address.
 
-    (If you can’t remember if you are registered but you think you know what email address you would be registered under if you are, you can check whether you are registered by going to [`EJM`](https://econjobmarket.org) and trying to log in using that email address. If you don’t remember the password, you can reset it.)
+    WARNING: You probably have 4-8 valid email addresses: `ccarroll@jhu.edu, ccarrol2@jh.edu, ccarroll@johnshopkins.edu, ...`. You want to have ONE address known to [`EJM`](https://econjobmarket.org) (otherwise, you may have to log in for each email address multiple times). Even if you have written EJM leters before, a student might try to register you under another address. If so, I advise you to push back and ask the student to get it right.
+
+    You can check whether you are registered by going to [`EJM`](https://econjobmarket.org) and trying to log in using your best-guess email address.
 
     Once you have been registered for [`EJM`](https://econjobmarket.org) and received a confirmation email to your JHU account, you can designate a “proxy” to handle the actual work of uploading your letters. We (the Job Market Collective Front) insist that you do things this way, because that provides us (the Front) with a centralized way of keeping track of where the process is. To repeat, you must NOT upload your letters yourself; you MUST designate a proxy.
 
