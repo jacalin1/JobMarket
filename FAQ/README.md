@@ -17,8 +17,6 @@ Frequently Asked Questions About the Job Market Process
     >
     > <div id="DecideByWhen">
     >
-    > DecideByWhen
-    >
     > </div>
 
 3.  When do I need to make a decision about whether I am going on the market?
@@ -57,7 +55,7 @@ Frequently Asked Questions About the Job Market Process
 
 8.  What is the timing of posting of jobs on JOE?
 
-    > Each year is slightly different from the previous. See the table (credit: Daniel Garcia) that shows the number of new jobs posted on JOE between different dates during 2016’s job cycle: <span id="JobPostDates">(JobPostDates)</span>
+    > Each year is slightly different from the previous. See the table (credit: Daniel Garcia) that shows the number of new jobs posted on JOE between different dates during 2016’s job cycle: <span id="JobPostDates"></span>
     >
     > | Dates          | \# of job postings on JOE |
     > |:---------------|:-------------------------:|
@@ -98,8 +96,6 @@ Frequently Asked Questions About the Job Market Process
     >
     > <div id="FedHiringRules">
     >
-    > (FedHiringRules)
-    >
     > </div>
 
 13. What are the Fed’s rules about hiring persons who are not US citizens?
@@ -132,8 +128,6 @@ Frequently Asked Questions About the Job Market Process
     >
     > <div id="WhatIfEmployerContactsStudent">
     >
-    > (WhatIfEmployerContactsStudent)
-    >
     > </div>
 
 17. What does it mean if an employer to whom I have not applied sends me an email asking me if I would be interested in applying?
@@ -160,8 +154,6 @@ Frequently Asked Questions About the Job Market Process
     >
     > <div id="PostOtherDocsQ">
     >
-    > (PostOtherDocsQ)
-    >
     > </div>
 
 21. The [`JOE`](https://www.aeaweb.org/joe) posting for many jobs asks for only a subset of all the materials I have assembled. Should I upload everything any as “other documents”?
@@ -177,8 +169,6 @@ Frequently Asked Questions About the Job Market Process
     > Yes, you can back out later. On the whole it is not wise to do so unless every moment of your possible interview time is filled and then someone calls who is preferred to some of your existing interviews. Again, remember the principle that you are likely to be interacting with many of the same people throughout your career, and you don’t want your first impression on them to be a bad one. Also, you may ultimately only receive a job offer from your “backup” places, not the ones you hope for!
 
     <div id="InterviewBestTime">
-
-    (InterviewBestTime)
 
     </div>
 
