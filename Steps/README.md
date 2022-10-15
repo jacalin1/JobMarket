@@ -7,13 +7,13 @@ Steps in the Job Market Process
 
 1.  Familiarize yourself with this document, [`TimeTable`](https://github.com/llorracc/JobMarket/tree/main/TimeTable), and [`FAQ`](https://github.com/llorracc/JobMarket/blob/main/FAQ); in all communications I will expect you to have thoroughly digested the information contained in all of the resources I have provided.
 
-2.  In your initial email to the JMPO and JMCC (see [`TimeTable`](https://github.com/llorracc/JobMarket/tree/main/TimeTable) for timing; see [`Notation`](https://github.com/llorracc/JobMarket/blob/main/Notation) for definitions of who the JMPO and JMCC are), indicate what your [`Moniker`](https://github.com/llorracc/JobMarket/blob/main/Notation) is (don’t forget the middle initial! see [`Notation`](https://github.com/llorracc/JobMarket/blob/main/Notation)), your main advisor, second advisor, job paper title, year in the JHU program, and assessment of likelihood you will actually be on the market (for students before 6th year).
+2.  In your initial email to the JMPO and JMCC (see [`TimeTable`](https://github.com/llorracc/JobMarket/tree/main/TimeTable) for timing; see [`Notation`](https://github.com/llorracc/JobMarket/blob/main/Notation) for definitions of who the JMPO and JMCC are), indicate what your `Moniker` is (don’t forget the middle initial! see [`Notation`](https://github.com/llorracc/JobMarket/blob/main/Notation)), your main advisor, second advisor, job paper title, year in the JHU program, and assessment of likelihood you will actually be on the market (for students before 6th year).
 
     <div id="jhueconpeople-data">
 
     </div>
 
-3.  In early September, a login entry will be created for you using your [`Moniker`](https://github.com/llorracc/JobMarket/blob/main/Notation) in the database that I have set up to keep track of job market candiates, [`jhuEconPeople`](https://jhueconpeople.dynalias.org)  (its full url is at the end of this document). Don’t be worried about the information you put in this database; it is mainly for internal purposes and we will not (for example) put your phone number on the internet. But we do *need* your phone number so that you can be contacted quickly if necessary (in response to an inquiry from an employer, e.g.).
+3.  In early September, a login entry will be created for you using your `Moniker` in the database that I have set up to keep track of job market candiates, [`jhuEconPeople`](https://jhueconpeople.dynalias.org)  (its full url is at the end of this document). Don’t be worried about the information you put in this database; it is mainly for internal purposes and we will not (for example) put your phone number on the internet. But we do *need* your phone number so that you can be contacted quickly if necessary (in response to an inquiry from an employer, e.g.).
 
     <div id="write-and-post-memo">
 
@@ -57,7 +57,7 @@ Steps in the Job Market Process
 
     </div>
 
-11. Once your CV, abstract, and job market paper are ready, it will be *your* responsibility to post them into the folder that the department will create under your [`Moniker`](https://github.com/llorracc/JobMarket/blob/main/Notation). Instructions can be found at the `JMCC Help` web page listed below, under the header `JobMarketComputerHelp`. To see what the final page will look like, go to <http://www.econ2.jhu.edu/jobmarket/2016/>. (The page <http://www.econ2.jhu.edu/computing-resources/> may also contain answers to technical questions.)
+11. Once your CV, abstract, and job market paper are ready, it will be *your* responsibility to post them into the folder that the department will create under your `Moniker`. Instructions can be found at the `JMCC Help` web page listed below, under the header `JobMarketComputerHelp`. To see what the final page will look like, go to <http://www.econ2.jhu.edu/jobmarket/2016/>. (The page <http://www.econ2.jhu.edu/computing-resources/> may also contain answers to technical questions.)
 
     <div id="Template">
 
