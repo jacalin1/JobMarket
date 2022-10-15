@@ -319,7 +319,7 @@ _region_.*
 #*.pdf
 # *.html
 # *.css
-# *.dep
+*.dep
 # index.html
 
 
