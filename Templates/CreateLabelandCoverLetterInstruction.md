@@ -13,7 +13,7 @@ When you open your copy of this document, click "Yes" at the pop-up warning wind
 
 - In the resulting  dialog box, replace the default directory at Data Source `C:\Users\dami\Documents\JobMarket\JMInstructionsRevised\EmployersMoniker.xls` with the path to your `EmployersMoniker` spreadsheet. (See figure below.) For example, if I put my `EmployersMoniker` at "F:/JobMarket/`EmployersMoniker`", use this directory.
 
-<img src="Data%20Link%20Properties.gif" alt="Data Link Properties&#39;" />
+<img src="Data-Link-Properties.gif" alt="Data Link Properties&#39;" />
 
 After replacing the directory, click "OK". `CreateLabels` now should be successfully opened.
 
