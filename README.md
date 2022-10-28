@@ -1,6 +1,4 @@
-Overview of JobMarket Resources for JHU Econ PhD Candidates
-
-FAQ
+\#Overview of JobMarket Resources for JHU Econ PhD Candidates
 
 -   [Frequently Asked Questions](https://llorracc.github.io/JobMarket/FAQ)
 
