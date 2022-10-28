@@ -79,7 +79,7 @@ Steps in the Job Market Process
 
     </div>
 
-14. Confer with your principal advisor to construct your `EmployersMoniker` lists (see [below](#below))
+14. Confer with your principal advisor to construct your `Employers[Moniker]` lists (see [below](#below))
 
     <div id="Rec-Letters">
 
