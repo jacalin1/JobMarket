@@ -14,7 +14,7 @@ http://www.econ2.jhu.edu/jobmarket/year/LastnameFM
 ___
 
 
-where "LastnameFM" is your [Moniker](https://github.com/llorracc/JobMarket/blob/main/Notation/Notation.md).
+where "LastnameFM" is your [Moniker](https://llorracc.github.io/JobMarket/Notation/README.md).
 
 You are responsible for updating the contents of your folder. Your folder contains the following sub-folders:
 
@@ -24,8 +24,6 @@ You are responsible for updating the contents of your folder. Your folder contai
 -   JobTalk
 -   NonThesisPapers
 -   OtherThesisPapers
--   Private
-
 
 and a template.txt file, where you will add information for your personal page. There are also relevant templates for your CV, abstracts, etc.... in the sub-folders. The individual webpages are linked to the [Job Market Candidates web page](http://econ.jhu.edu/directoryindex/job-market/). You can view sample pages at [http://www.econ2.jhu.edu/jobmarket/2016/RondaV/](http://www.econ2.jhu.edu/jobmarket/2016/RondaV/) and [http://www.econ2.jhu.edu/jobmarket/2016/DengL/](http://www.econ2.jhu.edu/jobmarket/2016/DengL/)
 
@@ -95,9 +93,11 @@ Information can be found at [RecLetters](https://github.com/llorracc/JobMarket/R
 
 ### Multiple Letters
 
-A problem arises if you, the job candidate, needs multiple types of letters from the same reference (most commonly academic and non-academic references). Typically when a main/generic reference is uploaded, it will be automatically submitted to all employers/schools.
+Typically when a main/generic reference is uploaded, it will be automatically submitted to all employers/schools.
 
-Therefore we are currently handling this problem using two alternative procedures:
+Things are a bit more complicated when needs multiple types of letters from the same letter writer (most commonly academic and non-academic references). 
+
+We handle this problem using two alternative procedures:
 
 ##### Semi-Auto Solution:
 
