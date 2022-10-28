@@ -2,6 +2,8 @@
 
 This contains advice from JHU students and faculty over the years about various aspects of the job market process.
 
+It is accessible only from within a browser that has been authenticated to the JHU VPN.
+
 A private GitHub repo is also available to collaborators:
 
 https://github.com/llorracc/jobmarket-resources
