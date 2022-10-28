@@ -33,15 +33,15 @@ Note that these options do NOT include a method of getting letters to any employ
 
 Some employers have a deadline before Nov 15 (a few as early as Nov 1). Most employers have deadlines in middle to late November. Finally, employers with late job postings may appear in the December JOE.
 
-For each timeframe, you will send to [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu) a list of employers to which you are applying: `EmployersMoniker`-`[Which]` where “Which” will be the words “Early,” “Middle”, or “Late.” There should be at least a week between the date when you send the spreadsheet and the earliest application due-date contained therein. Thus, if you want to apply to some jobs that have a deadline of Nov 1, then by October 23 you would send `EmployersMoniker`-`Early`. It would be good to include also in the “Early” spreadsheet employers with a deadline up to Nov 15 or 16, so that the workload is spread out over time as much as possible. By Nov 8 you would send `EmployersMoniker`-`Mid` with the employers who have November deadlines that you did not send in your “Early” spreadsheet. Finally, if any new jobs are posted in the December JOE that you want to apply to, then sometime around Dec 7 you would send `EmployersMoniker`-`Late`. (It is good to include as many employers as possible in your “Late” spreadsheet because this spreads out the work that [`JMStaff`](https://github.com/llorracc/JobMarket/blob/main/Notation) has to do more evenly over time).
+For each timeframe, you will send to [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu) a list of employers to which you are applying: `Employers[Moniker]`-`[Which]` where “Which” will be the words “Early,” “Middle”, or “Late.” There should be at least a week between the date when you send the spreadsheet and the earliest application due-date contained therein. Thus, if you want to apply to some jobs that have a deadline of Nov 1, then by October 23 you would send `Employers[Moniker]`-`Early`. It would be good to include also in the “Early” spreadsheet employers with a deadline up to Nov 15 or 16, so that the workload is spread out over time as much as possible. By Nov 8 you would send `Employers[Moniker]`-`Mid` with the employers who have November deadlines that you did not send in your “Early” spreadsheet. Finally, if any new jobs are posted in the December JOE that you want to apply to, then sometime around Dec 7 you would send `Employers[Moniker]`-`Late`. (It is good to include as many employers as possible in your “Late” spreadsheet because this spreads out the work that [`JMStaff`](https://github.com/llorracc/JobMarket/blob/main/Notation) has to do more evenly over time).
 
 You will get these 3 (and ONLY these 3) opportunities to apply to jobs. It is impossible for the staff, for every student, to keep track of more than 3 spreadsheets each of which has multiple employers; experience tells us that everything breaks down if every few days each student drops by the office (or sends an email) saying “oh by the way, please add the following 4 employers to my list.”
 
 Broadly, for each iteration your steps are as follows:
 
-1.  Produce your version of `EmployersMoniker` (by “your version” I mean, of course, to rename the template file to, for example, `EmployersThomK-Early.xlsx` if you are Kevin Thom and it is your `Early` list) that contains *all* the employers, and *only* the employers, that you are actually applying to in this round. (You probably will have some employers you have thought about but have decided not to apply to, or to apply to in later rounds; if you want to preserve that information, please copy and paste it to another spreadsheet, and remove it from your main `EmployersMoniker-[Which].xls` spreadsheet that you will give to the staff.)
+1.  Produce your version of `Employers[Moniker]` (by “your version” I mean, of course, to rename the template file to, for example, `EmployersThomK-Early.xlsx` if you are Kevin Thom and it is your `Early` list) that contains *all* the employers, and *only* the employers, that you are actually applying to in this round. (You probably will have some employers you have thought about but have decided not to apply to, or to apply to in later rounds; if you want to preserve that information, please copy and paste it to another spreadsheet, and remove it from your main `Employers[Moniker]-[Which].xlsm` spreadsheet that you will give to the staff.)
 
-2.  Sort your `EmployersMoniker` spreadsheet according to five sort keys:
+2.  Sort your `Employers[Moniker]` spreadsheet according to five sort keys:
 
     1.  Date on which the staff are to send the recommendation letters;
 
@@ -53,11 +53,11 @@ Broadly, for each iteration your steps are as follows:
 
     5.  Employer Name.
 
-    (There should be a macro (`Ctrl`+`w`) built into `EmployersMoniker` that can be executed to accomplish this sort – see the instructions in `EmployersMoniker``-Instructions.xlsx`).
+    (There should be a macro (`Ctrl`+`w`) built into `Employers[Moniker]` that can be executed to accomplish this sort – see the instructions in `Employers[Moniker]``-Instructions.xlsx`).
 
-3.  Put the `EmployersMoniker` list in your `Private` directory on the server.
+3.  Put the `Employers[Moniker]` list in your `Private` directory on the server.
 
-4.  Then send an email message `EmployersMoniker` to [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu)AND to [`placement.jhuecon@gmail.com`](mailto:placement.jhuecon@gmail.com), letting us know that the list has been posted, AND containing a clickable link to the file. For example, if I were applying in 2020, and this was my “Early” list, I’d send a message like:
+4.  Then send an email message `Employers[Moniker]` to [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu)AND to [`placement.jhuecon@gmail.com`](mailto:placement.jhuecon@gmail.com), letting us know that the list has been posted, AND containing a clickable link to the file. For example, if I were applying in 2020, and this was my “Early” list, I’d send a message like:
 
     > <div class="texttt">
     >
@@ -73,7 +73,7 @@ Broadly, for each iteration your steps are as follows:
 
     (The placement director needs to know where you have applied for a host of reasons, including being prepared for calls that employers might make seeking further info).
 
-5.  *After having sent* their `EmployersMoniker-[Which].xls` spreadsheet, the student should follow the steps outlined in detail below for those applications that involve either push or pull email.
+5.  *After having sent* their `Employers[Moniker]-[Which].xlsm` spreadsheet, the student should follow the steps outlined in detail below for those applications that involve either push or pull email.
 
 6.  *After taking care of their push and pull email applications*, students should complete their [`EJM`](https://econjobmarket.org) , [`AcademicJobsOnline`](https://academicjobsonline.org), [`AEA/JOE`](https://aeaweb.org), and [`Interfolio`](https://www.interfolio.com) applications for this round (see below for details).
 
@@ -155,7 +155,7 @@ More detailed procedures are below:
 
 Most of what the staff will do for recommendation letters is implicit in the previous section. To summarize:
 
-1.  You will receive an `EmployersMoniker` spreadsheet from a student. When you receive it, insert a new Column A and save the spreadsheet to the students electronic folder located on the (X) drive or Stella as it is named. This new column will be used to mark off each employer once their letters are sent to them.
+1.  You will receive an `Employers[Moniker]` spreadsheet from a student. When you receive it, insert a new Column A and save the spreadsheet to the students electronic folder located on the (X) drive or Stella as it is named. This new column will be used to mark off each employer once their letters are sent to them.
 
 2.  *After* you receive that spreadsheet, you should start receiving requests for letters through [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu).
 
