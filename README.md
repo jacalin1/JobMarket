@@ -12,4 +12,4 @@
 
 -   [TimeTable for main events in job market season](https://llorracc.github.io/JobMarket/TimeTable)
 
--   [General advice, some from JHU faculty and former students](https://llorracc.github.io/JobMarket/Resources)
+-   [Resources and advice, some from JHU faculty and former students](https://llorracc.github.io/JobMarket/Resources)
